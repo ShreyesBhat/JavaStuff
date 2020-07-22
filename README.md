@@ -1,2 +1,1 @@
-# JavaStuff
-Micro Focus
+Reflection with interfaces
