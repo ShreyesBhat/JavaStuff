@@ -1,5 +1,6 @@
 import java.lang.annotation.Inherited;
 import java.lang.reflect.*;
+
 public class Reflect
 {
     Class reflectClass = StudentInfo.class;
