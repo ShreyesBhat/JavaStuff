@@ -1,6 +1,7 @@
 import java.lang.*;
 import java.lang.reflect.InvocationTargetException;
 
+
 interface Students
 {
     String name = null;
@@ -43,6 +44,7 @@ class StudentInfo implements Students
         this.name = name;
     }
 }
+
 
 public class Student {
     public static void main(String args[]) throws InvocationTargetException, IllegalAccessException, NoSuchMethodException {
